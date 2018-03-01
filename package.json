@@ -1,0 +1,21 @@
+{
+  "name": "google_hash_code2018",
+  "version": "1.0.0",
+  "description": "Google HashCode",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuatreFromagesSupplementPersil/GoogleHashCode2018.git"
+  },
+  "author": "QuatreFromagesSupplementPersil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuatreFromagesSupplementPersil/GoogleHashCode2018/issues"
+  },
+  "homepage": "https://github.com/QuatreFromagesSupplementPersil/GoogleHashCode2018#readme"
+}
